@@ -36,6 +36,7 @@
   Categorized trip durations to find frequency and revenue by ride length.
   Generated time-of-day analytics to understand user behavior patterns.
   Pareto Analysis on what locations contributes 80% of Total Revenue.
+  Around in total 30+ Questions.
 
 
 # What This Project Demonstrates
