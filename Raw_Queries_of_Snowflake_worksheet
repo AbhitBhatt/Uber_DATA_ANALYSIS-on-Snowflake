@@ -1,5 +1,5 @@
-#### THESE_ARE_2_TABLES
-
+## THESE_ARE_2_TABLES
+---
 select * from uber_trip_details;
 select * from loc_info;
 
